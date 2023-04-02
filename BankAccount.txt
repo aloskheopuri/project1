@@ -3,8 +3,13 @@ Acoount Balance -3000000
 Acoount type - Current
 
 Account Holder name -Amrita
+<<<<<<< HEAD
 Acoount Balance -2000000
 Acoount type - Savings or current
 
 Account Holder name- Anita
 Account Balance - 1000000
+=======
+Acoount Balance -20000000
+Acoount type - Current
+>>>>>>> Admin1
