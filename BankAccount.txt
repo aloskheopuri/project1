@@ -5,3 +5,6 @@ Acoount type - Current
 Account Holder name -Amrita
 Acoount Balance -2000000
 Acoount type - Savings or current
+
+Account Holder name- Anita
+Account Balance - 1000000
