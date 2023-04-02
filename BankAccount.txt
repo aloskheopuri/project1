@@ -4,4 +4,4 @@ Acoount type - Current
 
 Account Holder name -Amrita
 Acoount Balance -2000000
-Acoount type - Current
+Acoount type - Savings or current
